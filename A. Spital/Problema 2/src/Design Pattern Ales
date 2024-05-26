@@ -1,0 +1,9 @@
+Explicatie Alegere Design Pattern:
+
+Design pattern-ul care se potriveste pentru aceasta problema este Factory pentru ca ni se cere crearea de obiecte din aceeasi familie, iar pentru ca ni se da un
+enum se va implementa mai exact Simple Factory.
+
+Simple Factory - participanti
+Interfata: PersonalSpital
+Clasele Concrete: Brancardier, Asistent si Medic
+Fabrica: PersonalSpitalFactory
