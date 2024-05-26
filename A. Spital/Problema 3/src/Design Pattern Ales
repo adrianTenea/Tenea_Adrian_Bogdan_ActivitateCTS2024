@@ -1,0 +1,4 @@
+Explicatie Alegere Design Pattern:
+
+Design pattern-ul este Factory Method pentru ca este vorba de crearea de obiecte din aceeasi familie, de asemenea se precizeaza nu sa nu se faca modificari in
+codul existent.
