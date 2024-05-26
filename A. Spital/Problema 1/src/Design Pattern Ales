@@ -1,0 +1,5 @@
+Explicatie Alegere Design Pattern:
+
+Pentru aceasta problema se observa pentru implementare design pattern-ul Builder deoarece se specifica in enunt facilitati extra - si ele se aleg doar
+daca sunt dorite de catre pacient.
+Ceea ce duce la constructia de obiecte complexe prin alegerea anumitor caracteristici dorite din lista de facilitati extra.
