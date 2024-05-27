@@ -1,0 +1,3 @@
+Explicatie Alegere Design Pattern:
+
+Design pattern-ul pentru aceasta problema este Adapter pentru ca avem 2 sisteme informatice diferite care trebuiesc integrate pentru a se putea folosi anumite metode din cele doua sisteme.
