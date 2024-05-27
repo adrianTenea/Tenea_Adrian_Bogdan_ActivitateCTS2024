@@ -1,0 +1,4 @@
+Explicatie Alegere Design Pattern:
+
+Design pattern-ul este in acest caz Facade pentru ca se cere dezvoltarea unui modul care sa permita unui spital sa realizeze mai multe operatiuni fara a fi
+necesara verificarea separata a tuturor etapelor destinate internarii unui pacient.
