@@ -13,6 +13,6 @@ public class RezultatOnline extends RezultatDecorator {
     }
 
     private void puneLaDispozitieOnline(String rezultat) {
-        System.out.println("Rezultatul analizelor a fost pus la dispozitie online");
+        System.out.println("Rezultatul analizelor a fost pus la dispozitie online: " + rezultat);
     }
 }
