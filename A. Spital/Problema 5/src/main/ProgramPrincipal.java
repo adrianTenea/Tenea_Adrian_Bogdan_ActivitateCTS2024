@@ -2,7 +2,6 @@ package main;
 
 import clase.Farmacie;
 import clase.MedicamentAdapter;
-import clase.MedicamentFarmacie;
 import clase.MedicamentSpital;
 
 public class ProgramPrincipal {
